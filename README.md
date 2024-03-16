@@ -21,5 +21,4 @@ Widget yang digunakan:
 - Image: Digunakan untuk menampilkan gambar, seperti banner, tombol persegi, dan artikel kesehatan.
 - ListView.builder: Digunakan untuk menampilkan daftar artikel kesehatan secara horizontal.
 - ClipRRect: Digunakan untuk membuat sudut gambar menjadi melengkung (rounded).
-- InkWell: Digunakan untuk memberikan efek "splash" saat widget ditekan, seperti saat menekan tombol persegi.
 - Text: Digunakan untuk menampilkan teks.
